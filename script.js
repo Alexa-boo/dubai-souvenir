@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const apiKey = "YOUR_API_KEY";  // Get an API key from https://openweathermap.org/
+    const apiKey = "88b195350591f5c55fd453d8e7dfe1ac";  // Get an API key from https://openweathermap.org/
     const city = "Dubai";
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric&lang=en`;
 

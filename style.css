@@ -3,7 +3,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 20px;
-    background: url ('https://raw.githubusercontent.com/Alexa-boo/dubai-souvenir/refs/heads/main/2025-02-03%2017.42.01.jpg');
+    background: url ('2025-02-03 17.42.01.jpg') no-repeat center center fixed;
     color: white;
 }
 
